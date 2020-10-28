@@ -1,4 +1,4 @@
-Plagiarism Detection
+**Plagiarism Detection**
 
 Notebook 1: Data Exploration
 
